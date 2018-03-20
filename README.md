@@ -33,11 +33,11 @@ you need to install :-
 
 ### How to run the project
 
-1- open project directory on terminal
-2- install node modules by run this `npm i`
-3- install sails global by run this `sudo npm i sails -g`
-4- run your backend-server by run `node server`
-5- open another terminal on the same directory of project
+1- open project directory on terminal <br />
+2- install node modules by run this `npm i` <br />
+3- install sails global by run this `sudo npm i sails -g` <br />
+4- run your backend-server by run `node server` <br />
+5- open another terminal on the same directory of project <br />
 6- in the new terminal run client-side server `python3 -m http.server 8000`
 
 To see the data in the backend-server open <http://localhost:1337/restaurants>
