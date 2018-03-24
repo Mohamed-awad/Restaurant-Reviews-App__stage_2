@@ -44,4 +44,3 @@ To see the data in the backend-server open <http://localhost:1337/restaurants>
 
 To see the project in the client-server open <http://localhost:8000>
 
-# That's it Cool
